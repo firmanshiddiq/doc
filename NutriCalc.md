@@ -22,4 +22,4 @@
 2. CSS
 3. React JS
 
-![cat](IMG_1081.JPG)
+![cat](https://github.com/firmanshiddiq/doc/blob/master/IMG_1081.JPG)

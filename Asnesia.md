@@ -22,7 +22,7 @@
         Frontend : 
         <ul>
             <li>
-                Halaman Landing Page
+                Halaman Landing Page Asnesia
             </li>
         </ul>
     </li>

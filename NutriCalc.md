@@ -9,7 +9,7 @@
     </li>
 </ol>
 <h2>Repositori</h2>
-<a href="https://github.com/appskep/asnesia-landing-page.git">https://github.com/appskep/asnesia-landing-page.git</a>
+<a href="https://github.com/appskep/nutricalc.git">https://github.com/appskep/nutricalc.git</a>
 <h2>Web</h2>
 <ol>
     <li>
@@ -25,7 +25,6 @@
         <ul>
             <li>
                 BeLum Ada
-                Get: https://api.appskep.id/data/stats
             </li>
         </ul>
     </li>

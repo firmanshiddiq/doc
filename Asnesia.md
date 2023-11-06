@@ -30,10 +30,10 @@
         Backend :
         <ul>
             <li>
-                Get: https://api.appskep.id/data/stats
+                GET: https://api.appskep.id/data/stats
             </li>
             <li>
-                Post: https://api.appskep.id/data/send-ebook
+                POST: https://api.appskep.id/data/send-ebook
             </li>
             <li>
                 POST: https://api.appskep.id/data/click

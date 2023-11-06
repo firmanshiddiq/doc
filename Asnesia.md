@@ -1,5 +1,4 @@
 <h1>Asnesia</h1>
-<br>
 <h2>Deskripsi</h2>
 <ol>
     <li>
@@ -15,7 +14,8 @@
         Selain itu user bisa dikirimkan langsung modul dengan input no Whatsapp
     </li>
 </ol>
-<br>
+<h2>Repositori</h2>
+<a href="https://github.com/appskep/asnesia-landing-page.git">https://github.com/appskep/asnesia-landing-page.git</a>
 <h2>Web</h2>
 <ol>
     <li>
@@ -27,7 +27,7 @@
         </ul>
     </li>
     <li>
-        Backend
+        Backend :
         <ul>
             <li>
                 Get: https://api.appskep.id/data/stats
@@ -40,4 +40,10 @@
             </li>
         </ul>
     </li>
+</ol>
+<h2>Technologi</h2>
+<ol>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JAVASCRIPT</li>
 </ol>

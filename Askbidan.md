@@ -4,7 +4,7 @@
 
 1.  Website Askbidan merupakan sebuah website yang memberikan layanan seputar kebidanan, seperti bimbel persiapan ukom dibidang kebidanan
 2.  Terdapat FAQS dalam website ini yang sering ditanyakan oleh user
-3.  Terdapat fitur berupa inputan nomor Whatsapp yang aktif dan mendapatkan modul terbaru tentangkebidanan
+3.  Terdapat fitur berupa inputan nomor Whatsapp yang aktif dan mendapatkan modul terbaru tentang kebidanan
 
 ## Repositori
 

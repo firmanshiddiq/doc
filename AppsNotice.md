@@ -2,8 +2,8 @@
 
 ## Deskripsi
 
-1.  Website appsnotice adalah sebuah website yang digunakan untuk mengumpulkan informasi seputar lomba appsnotice yang dibuat oleh Appskep
-2.  Terdapat akses goggle drive untuk setiap lomba, seperti Karya tulis ilmiah, poster, dan essay
+1.  Website Appsnotice adalah sebuah website yang digunakan untuk mengumpulkan informasi seputar lomba appsnotice yang dibuat oleh Appskep
+2.  Terdapat akses google drive untuk setiap lomba, seperti Karya tulis ilmiah, poster, dan essay
 
 ## Repositori
 
